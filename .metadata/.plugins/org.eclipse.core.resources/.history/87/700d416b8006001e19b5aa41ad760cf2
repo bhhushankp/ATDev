@@ -1,0 +1,11 @@
+package com.atdev.controller;
+
+
+@rest
+public class StudentController {
+	
+	
+}
+
+
+

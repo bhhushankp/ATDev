@@ -1,0 +1,11 @@
+package com.atdev.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.atdev.model.Student;
+
+public interface StudentRepository extends JpaRepository<Student, Integer>{
+	
+
+
+}
